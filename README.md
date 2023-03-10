@@ -14,5 +14,5 @@ s3://path/to/file2.cdf
 
 
 ```bash
-python s3cp.py my_list.txt --dst ../my_dst_path/ --n_cpus=5
+python s3co.py my_list.txt --dst ../my_dst_path/ --n_cpus=5
 ```
